@@ -30,7 +30,7 @@ I turn **complex data into clear insights** using
 - Azure OpenAI
 - Big Data
 
-### 🎨 Visualization
+### 🎨  Visualization
 - Power BI Dashboards
 - Tableau
 - GGPLOT2
