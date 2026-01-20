@@ -34,4 +34,3 @@ I turn **complex data into clear insights** using
 - Power BI Dashboards
 - Tableau
 - GGPLOT2
-- Matplotlib • Seaborn
